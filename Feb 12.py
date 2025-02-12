@@ -1,3 +1,6 @@
+I learned how to create an input variable.
+
+
 myName = input("What's you name? ")
 myAge = input("How old are you? ")
 print("Gee, that's REALLY OLD")
