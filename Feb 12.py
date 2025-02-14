@@ -1,4 +1,4 @@
-I learned how to create an input variable.
+#I learned how to create an input variable.
 
 
 myName = input("What's you name? ")
