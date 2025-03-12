@@ -1,5 +1,6 @@
 
 # Day 8 Challenge
+#I learned a new skill in coding with python
 
 name = input("What is your name? ")
 day = input("What day of the week is it? ").lower()
